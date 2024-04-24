@@ -15,3 +15,7 @@ Several Machine Learning algorithms were experimented with, along with parameter
 
 
 ![Screenshot (4)](https://github.com/saifhussain881/Loan-Approval-Prediction-using-Machine-Learning/assets/114691472/b7198867-88fb-4855-9502-c415091bd35b)
+
+
+![Screenshot (2)](https://github.com/saifhussain881/Loan-Approval-Prediction-using-Machine-Learning/assets/114691472/73271344-c7ed-4032-998b-53b00feadfd3)
+
