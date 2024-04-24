@@ -9,3 +9,6 @@
 To gain insights and extract maximum information from the data, Exploratory Data Analysis (EDA) was conducted as the first step. Python libraries like Plotly (v4.9.0), Matplotlib (v3.3.0), and Seaborn (v0.10.0) were used for data visualization.
 
 Several Machine Learning algorithms were experimented with, along with parameter tuning and the Voting Ensemble Method, to find the most effective classifier for the data. The aim was to assess the efficiency of these classifiers on the given dataset.
+
+
+![Screenshot (3)](https://github.com/saifhussain881/Loan-Approval-Prediction-using-Machine-Learning/assets/114691472/a568c150-cb35-4fd8-b154-e58f277f697e)
